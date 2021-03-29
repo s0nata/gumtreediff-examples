@@ -26,7 +26,7 @@ If you do not yet have a [GitHub](https://github.com/) account, register there.
 
 Go to your account and generate a _personal access token_ (if you already have it, make sure it has all necessary permissions - see below):
 
-  1. Folow the instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+  1. Follow the instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
 
   2. In step 6 of the above instructions set the token name to `github-GTD` or any other of your choice
 
